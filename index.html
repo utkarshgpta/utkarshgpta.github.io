@@ -3,11 +3,12 @@ layout: default
 title: Home
 ---
 
+<!-- For displaying posts list -->
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
     <h1 class="post-title">
-      <a href="{{ site.baseurl }}/{{ post.url }}">
+      <a href="{{ site.baseurl }}{{ post.url }}">
         {{ post.title }}
       </a>
     </h1>
@@ -16,6 +17,9 @@ title: Home
 
     {{ post.content }}
   </div>
+
+  <hr />
+  
   {% endfor %}
 </div>
 
@@ -36,3 +40,4 @@ title: Home
   {% endif %}
 </div>
 
+{% include footer.html %}

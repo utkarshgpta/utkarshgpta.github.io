@@ -2,22 +2,30 @@
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
-#relative_permalinks: true
-
+relative_permalinks: true
+markdown: redcarpet
+redcarpet:
+  extensions: ["strikethrough"]
+gems:
+  - jemoji
+gems:
+  - jekyll-sitemap
+  
 # Setup
 title:               Utkarsh Gupta
-tagline:             'Sexy Tagline'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://lanyon.getpoole.com
+tagline:             'Self-Motivated. Balanced. Simple. Real'
+description:         'Blog by Utkarsh Gupta <p>A curated list of ideas ,thoughts and random opinions on random topics</p>'
+url:                 http://about.me/UtkarshGpta
 baseurl:             ''
-gems: [jekyll-paginate]
-paginate:            3
+paginate:            5
 
 # About/contact
 author:
   name:              Utkarsh Gupta
+  firstname:		 Utkarsh
+  lastname:			 Gupta
   url:               https://twitter.com/UtkarshGpta
-  email:             utkarshgpta@gmail.com
+  email:             utkarshg1408@gmail.com
 
 # Custom vars
 version:             1.0.0
