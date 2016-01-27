@@ -3,28 +3,17 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Hey there I'm Utkarsh. Known as **UG** by classmates, I am currently pursuing Electrical Engineering from IIT Roorkee although my heart resides with **web** and **software development**. I am a teetotaler, self-motivated developer with an interest in music - though couldn't play any xD. I keep myself updated about recent developments in technology and explore fields. Interested in **entreprenuership**, let's see how it goes!
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+During my leisure time, I listen to **music** and watch TV Series. I love to travel-to explore. Late night outings - mostly walking is preferred. Being a teetotaler, I can't resist myself grabbing a cup of coffee. What say ?
 
-There are currently two themes built on Poole:
+Look around here or my [Github](https://github.com/UtkarshGpta) profile, or shoot me an [e-mail](mailto:utkarshg1408@gmail.com?subject=Mail from Blog)!
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+[Facebook Profile](https://www.facebook.com/UtkarshGpta)
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+<hr/>
 
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+<iframe src="https://ghbtns.com/github-btn.html?user=UtkarshGpta&type=follow&count=true&size=large" frameborder="0" scrolling="0" width="220px" height="30px"></iframe> <a class="twitter-follow-button"
+  href="https://twitter.com/UtkarshGpta"
+  data-size="large">
+Follow @TwitterDev</a>

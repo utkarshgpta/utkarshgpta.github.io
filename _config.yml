@@ -17,7 +17,7 @@ tagline:             'Self-Motivated. Balanced. Simple. Real'
 description:         'Blog by Utkarsh Gupta <p>A curated list of ideas ,thoughts and random opinions on random topics</p>'
 url:                 http://about.me/UtkarshGpta
 baseurl:             ''
-paginate:            5
+paginate:            3
 
 # About/contact
 author:
