@@ -1,3 +1,5 @@
 _site
 .sass-cache
-
+_config.yml~
+atom.xml~
+index.html~
