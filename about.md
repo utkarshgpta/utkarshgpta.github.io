@@ -1,21 +1,15 @@
 ---
 layout: page
 title: About
+permalink: /about/
 ---
 
-Hey, there I'm Utkarsh. Known as **UG** by classmates, I am currently pursuing Electrical Engineering from IIT Roorkee although my heart resides with **web** and **software development**. I am a teetotaler, self-motivated developer with an interest in music - though couldn't play any xD. I keep myself updated about recent developments in technology and explore fields. Interested in **entrepreneurship**, let's see how it goes!
+This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
-During my leisure time, I listen to **music** and watch TV Series. I love to travel - to explore. Late night outings - mostly walking is preferred. Being a teetotaler, I can't resist myself grabbing a cup of coffee. What say?
+You can find the source code for the Jekyll new theme at:
+{% include icon-github.html username="jglovier" %} /
+[jekyll-new](https://github.com/jglovier/jekyll-new)
 
-Look around here or my [Github](https://github.com/UtkarshGpta) profile, or shoot me an [e-mail](mailto:utkarshg1408@gmail.com?subject=Mail from Blog)!
-
-**[Facebook Profile](https://www.facebook.com/utkarsh.gpta)**
-
-**[about.me](https://www.about.me/UtkarshGpta)**
-
-<hr/>
-
-<iframe src="https://ghbtns.com/github-btn.html?user=UtkarshGpta&type=follow&count=true&size=large" frameborder="0" scrolling="0" width="220px" height="30px"></iframe> <a class="twitter-follow-button"
-  href="https://twitter.com/UtkarshGpta"
-  data-size="large">
-Follow @TwitterDev</a>
+You can find the source code for Jekyll at
+{% include icon-github.html username="jekyll" %} /
+[jekyll](https://github.com/jekyll/jekyll)

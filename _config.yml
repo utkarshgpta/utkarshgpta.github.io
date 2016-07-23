@@ -1,30 +1,32 @@
-# Permalinks
+# Welcome to Jekyll!
 #
-# Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
-kramdown: redcarpet
-redcarpet:
-  extensions: ["strikethrough"]
-gems:
-  - jemoji
-gems:
-  - jekyll-sitemap
-  
-# Setup
-title:               Utkarsh Gupta
-tagline:             'Self-Motivated. Balanced. Simple. Real'
-description:         'Blog by Utkarsh Gupta <p>A curated list of ideas ,thoughts and random opinions on random topics</p>'
-url:                 http://about.me/UtkarshGpta
-baseurl:             ''
-paginate:            3
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
 
-# About/contact
-author:
-  name:              Utkarsh Gupta
-  firstname:		 Utkarsh
-  lastname:			 Gupta
-  url:               https://twitter.com/UtkarshGpta
-  email:             utkarshg1408@gmail.com
+# Site settings
+title: Your awesome title
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: jekyllrb
+github_username:  jekyll
 
-# Custom vars
-version:             1.0.0
+# Build settings
+markdown: kramdown
+
+#############
+# HTML Head #
+#############
+
+lang: "en"
+author: "Utkarsh Gupta"
+title: "{ Utkarsh Gupta }"
+description: "Blog and website of Utkarsh Gupta, blogging mainly for software development. Opinions expressed are mine."
+keywords: "utkarsh, gupta, personal, jekyll, theme, blog, website"
+favicon: "/favicon.ico"
