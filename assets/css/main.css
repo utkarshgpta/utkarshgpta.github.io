@@ -37,6 +37,14 @@ html, body {
 	margin-top:10em;
 }
 
+.element{
+	color: white;
+}
+
+.intro-subheading {
+	margin-top: 0;
+}
+
 /* Typing cursor */
 .typed-cursor{
     opacity: 1;
