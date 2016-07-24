@@ -17,9 +17,16 @@ html, body {
 	padding: 0px;
 }
 
-.home-header-section{
+.home-header-left{
 	width: 50%;
 	height: 100%;
+	padding-right: 0.4em;
+}
+
+.home-header-right{
+	width: 50%;
+	height: 100%;
+	padding-left: 0.4em;
 }
 
 #body-wrapper{
@@ -28,4 +35,27 @@ html, body {
 
 #self-photo{
 	margin-top:10em;
+}
+
+/* Typing cursor */
+.typed-cursor{
+    opacity: 1;
+    -webkit-animation: blink 0.7s infinite;
+    -moz-animation: blink 0.7s infinite;
+    animation: blink 0.7s infinite;
+}
+@keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+@-webkit-keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+@-moz-keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
 }

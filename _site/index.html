@@ -42,22 +42,22 @@
     <![endif]-->
     
     <div class="container-fluid home-header" id="body-wrapper">
-	<div class="animated slideInDown col-lg-6 col-md-6 col-sm-6 col-xs-6 home-header-section" style="background-color:#D6CFC7"></div>
-	<div class="animated slideInUp col-lg-6 col-md-6 col-sm-6 col-xs-6 home-header-section" style="background-color:#683E42"></div>
+	<div class="animated slideInDown col-lg-6 col-md-6 col-sm-6 col-xs-6 home-header-left" style="background-color:#D6CFC7"></div>
+	<div class="animated slideInUp col-lg-6 col-md-6 col-sm-6 col-xs-6 home-header-right" style="background-color:#683E42"></div>
 </div>
 
 <div class="container-fluid home-header">
 	<img src="assets/img/me.jpg" class="img-circle img-thumbnail img-responsive center-block" width="180em" height="180em" id="self-photo">
-	<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 home-header-section">
+	<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 home-header-left">
 		<h1 class="pull-right">UTKARSH</h1>
 		<div class='clearfix'></div>
 		<h3 class="pull-right">A man</h3>
 	</div>
 	
-	<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 home-header-section">
+	<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 home-header-right">
 		<h1 class="pull-left" style="color:white"><strong>GUPTA</strong></h1>
 		<div class='clearfix'></div>
-		<h3 class="pull-left" style="color:white"><strong>is no one.</strong></h3>
+		<h3 class="pull-left element" style="color:white"></h3>
 	</div>
 </div>
 
@@ -69,5 +69,20 @@
     <script src="assets/js/plugins.js"></script>
     <script src="assets/js/main.js"></script>
     <script src="assets/js/typed.min.js"></script>
+    <script>
+    $(function(){
+        $(".element").typed({
+          strings: ["writes {code}.", "loves to travel.", "loves to eat food.", "is no one ^1000 xD."],
+          typeSpeed: 0,
+          loop: true,
+          loopCount: false,
+          shuffle: true,
+          typeSpeed: 30,
+          backDelay: 500,
+          showCursor: true,
+          cursorChar: "<h3 style=\"color:white\">|</h3>",
+        });
+    });
+    </script>
   </body>
 </html>

@@ -20,5 +20,20 @@
     <script src="assets/js/plugins.js"></script>
     <script src="assets/js/main.js"></script>
     <script src="assets/js/typed.min.js"></script>
+    <script>
+    $(function(){
+        $(".element").typed({
+          strings: ["writes {code}.", "loves to travel.", "loves to eat food.", "is no one ^1000 xD."],
+          typeSpeed: 0,
+          loop: true,
+          loopCount: false,
+          shuffle: true,
+          typeSpeed: 30,
+          backDelay: 500,
+          showCursor: true,
+          cursorChar: "<h3 style=\"color:white\">|</h3>",
+        });
+    });
+    </script>
   </body>
 </html>
