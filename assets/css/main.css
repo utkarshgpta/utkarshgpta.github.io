@@ -4,19 +4,28 @@
    Author's custom styles
    ========================================================================== */
 
+html, body {
+    height: 100%;
+}
 
+.home-header{
+	top: 0;
+	left: 0;
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	padding: 0px;
+}
 
+.home-header-section{
+	width: 50%;
+	height: 100%;
+}
 
+#body-wrapper{
+	z-index: -9999;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
+#self-photo{
+	margin-top:10em;
+}
