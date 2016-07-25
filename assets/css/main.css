@@ -67,3 +67,9 @@ html, body {
     50% { opacity:0; }
     100% { opacity:1; }
 }
+
+/* Animation Delays and other settings */
+#self-photo{
+  -webkit-animation-duration: 1s;
+  -webkit-animation-delay: 1s;
+}
