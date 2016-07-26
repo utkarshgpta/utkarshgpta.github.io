@@ -17,16 +17,20 @@ html, body {
 	padding: 0px;
 }
 
+#body-wrapper>.home-header-left,#body-wrapper>.home-header-right { height: 100%; }
+
 .home-header-left{
 	width: 50%;
-	height: 100%;
 	padding-right: 0.4em;
 }
 
 .home-header-right{
 	width: 50%;
-	height: 100%;
 	padding-left: 0.4em;
+}
+
+.text-color-right{
+  color: white;
 }
 
 #body-wrapper{
