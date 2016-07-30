@@ -7,7 +7,7 @@ url: "http://utkarshgpta.com"
 title_description: ""
 title_image: "https://robohash.org/Utkarsh Gupta"
 google_analytics: "UA-81663529-1"
-disqus_account: utkarshgpta
+disqus_account: UtkarshGpta
 github_repository: https://github.com/utkarshgpta
 addthis_id: ra-579c871df85f4998
 post_limit: 3
@@ -20,8 +20,8 @@ google_plus_link: https://plus.google.com/u/0/+UtkarshGupta404
 stackoverflow_link: http://stackoverflow.com/users/5600195/utkarsh-gupta
 
 # Footer
-footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/UtkarshGpta\">Jacob Tomlinson</a>"
-footer_right: "&lt;/&gt; on <a href=\"https://github.com/jacobtomlinson/carte-noire\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
+footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/UtkarshGpta\">Utkarsh Gupta</a>"
+footer_right: "&lt;/&gt; on <a href=\"https://github.com/UtkarshGpta\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
 
 # Build settings
 markdown: kramdown
