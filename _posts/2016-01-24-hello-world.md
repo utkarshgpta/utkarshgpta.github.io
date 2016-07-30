@@ -5,7 +5,7 @@ date:       2016-01-24 15:31:19
 author:     Utkarsh Gupta
 summary:    Finally, I am done! My first blog post's live on the internet.
 categories: jekyll
-thumbnail:  heart
+thumbnail:  hand-peace-o
 tags:
  - welcome
  - to
