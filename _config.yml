@@ -2,6 +2,9 @@
 title: "Utkarsh Gupta"
 email: utkarshg1408@gmail.com
 description: "Self learned developer and a student of Electrical Enginerring at IIT Roorkee."
+keywords: "utkarshgpta, utkarsh gupta, developer, web, iit roorkee, jekyll, blog, personal, about me"
+lang: "en"
+author: "Utkarsh Gupta"
 baseurl: ""
 url: "http://utkarshgpta.com"
 title_description: ""
@@ -22,7 +25,7 @@ stackoverflow_link: http://stackoverflow.com/users/5600195/utkarsh-gupta
 
 # Footer
 footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/UtkarshGpta\">Utkarsh Gupta</a>"
-footer_right: "&lt;/&gt; on <a href=\"https://github.com/UtkarshGpta\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
+footer_right: "&lt;/&gt; on <a href=\"https://github.com/UtkarshGpta/UtkarshGpta.github.io\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
 
 # Build settings
 markdown: kramdown
