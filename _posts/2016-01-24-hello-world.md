@@ -6,6 +6,7 @@ author:     Utkarsh Gupta
 summary:    Finally, I am done! My first blog post's live on the internet.
 categories: jekyll
 thumbnail:  hand-peace-o
+comments: true
 tags:
  - welcome
  - to
