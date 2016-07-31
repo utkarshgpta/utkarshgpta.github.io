@@ -25,7 +25,6 @@ facebook_username: UtkarshGpta
 github_username:  utkarshgpta
 linkedin_link: https://in.linkedin.com/in/utkarsh-gupta-33418b100
 google_plus_link: https://plus.google.com/u/0/+UtkarshGupta404
-stackoverflow_link: http://stackoverflow.com/users/5600195/utkarsh-gupta
 
 # Footer
 footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/UtkarshGpta\">Utkarsh Gupta</a>"
@@ -40,3 +39,4 @@ kramdown:
 
 permalink: pretty
 exclude: [vendor]
+exclude: ["LICENSE", "README.md", "CONTRIBUTING", "CONTRIBUTORS", "scripts"]
