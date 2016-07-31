@@ -4,9 +4,12 @@ email: utkarshg1408@gmail.com
 description: "Self learned developer and a student of Electrical Enginerring at IIT Roorkee."
 keywords: "utkarshgpta, utkarsh gupta, developer, web, iit roorkee, jekyll, blog, personal, about me"
 lang: "en"
-author: "Utkarsh Gupta"
+author:
+  first_name: "Utkarsh"
+  last_name: "Gupta"
 baseurl: ""
 url: "http://utkarshgpta.com"
+
 title_description: ""
 title_image: "https://robohash.org/Utkarsh Gupta"
 google_analytics: "UA-81663529-1"
@@ -18,6 +21,7 @@ post_limit: 3
 # Social usernames/URLs
 twitter_username: utkarshgpta
 instagram_username: utkarsh.gpta
+facebook_username: UtkarshGpta
 github_username:  utkarshgpta
 linkedin_link: https://in.linkedin.com/in/utkarsh-gupta-33418b100
 google_plus_link: https://plus.google.com/u/0/+UtkarshGupta404
