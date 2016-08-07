@@ -8,8 +8,7 @@ categories: jekyll
 thumbnail:  hand-peace-o
 comments: true
 tags:
- - welcome
- - to
+ - firstpost
  - jekyll
 ---
 
