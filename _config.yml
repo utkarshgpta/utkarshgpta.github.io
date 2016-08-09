@@ -40,3 +40,7 @@ kramdown:
 permalink: pretty
 exclude: [vendor]
 exclude: ["LICENSE", "README.md", "CONTRIBUTING", "CONTRIBUTORS", "scripts"]
+
+gems:
+  - jekyll-sitemap
+  
