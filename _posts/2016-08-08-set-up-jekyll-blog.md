@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Set up your Jekyll Blog - Beginners' Guide [Part 1]
+title: Set up your Jekyll Blog - Beginners' Guide
 date:       2016-08-07 4:31:19
 author:     Utkarsh Gupta
 description:    Quick and easy step by step instructions to set up and running a basic Jekyll blog! 
@@ -117,11 +117,17 @@ Start by editing `_config.yml` file in the root directory. Change the title, des
 
 ### Writing a New Post
 * * *
-As already mentioned earlier, posts in Jekyll are written in either Markdown or textile. You can use [this](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) cheatsheet to write your post in Markdown.
+As already mentioned earlier, posts in Jekyll are written in either Markdown or textile. You can use [this](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) cheat-sheet to write your post in Markdown.
 
 ### Naming Convention
 Posts in Jekyll need to follow a particular naming convention: `year-month-date-{title-slug}.{file-extension}`
 
-Just open `_posts` folder and edit the files keeping the format intact. Don't touch the Post Front-matter, i.e. the text between two `---` lines except for the post title and date. They tell the parsing engine to compile these files. Copy this all and make a new markdown file and name it according to the convention. Now using the cheatsheet, write your blog in plaintext in Markdown and save. Refresh and you'll see the changes.
+Just open `_posts` folder and edit the files keeping the format intact. Don't touch the Post Front-matter, i.e. the text between two `---` lines except for the post title and date. They tell the parsing engine to compile these files. Copy this all and make a new markdown file and name it according to the convention. Now using the cheat-sheet, write your blog in plaintext in Markdown and save. Refresh and you'll see the changes.
 
 Save your changes as for now. In the next post, I'll write how to host this blog of yours with Github Pages and access the blog online. Meanwhile, you can customize the files in `_layouts` folder to change the way content is presented and read around the bits of code.
+
+### Further Reading:
+ * [How Jekyll Works](//jekyllbootstrap.com/lessons/jekyll-introduction.html)
+ * [Jekyll Documentation](//jekyllrb.com/docs/home/)
+ * [Github Pages](//pages.github.com/)
+ * [Jekyll Themes](//jekyllthemes.org/)
