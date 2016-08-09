@@ -4,6 +4,7 @@ title: Set up your Jekyll Blog - Beginners' Guide
 date:       2016-08-07 4:31:19
 author:     Utkarsh Gupta
 description:    Quick and easy step by step instructions to set up and running a basic Jekyll blog! 
+keywords:	"set, blog, jekyll, github, local, machine, website, utkarshgpta, utkarsh gupta, developer, iit, roorkee, iit roorkee, personal, about me"
 categories: jekyll
 thumbnail:  jekyll
 comments: true

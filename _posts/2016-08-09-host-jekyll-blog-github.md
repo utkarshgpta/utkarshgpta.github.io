@@ -4,6 +4,7 @@ title: Hosting Jekyll blog on Github
 date:       2016-08-08 2:31:19
 author:     Utkarsh Gupta
 description:    Quick and easy step by step instructions for hosting Jekyll blog on Github.
+keywords:	"blog, jekyll, hosting, github, website, utkarshgpta, utkarsh gupta, developer, iit, roorkee, iit roorkee, personal, about me"
 categories: jekyll
 thumbnail:  jekyll
 comments: true
