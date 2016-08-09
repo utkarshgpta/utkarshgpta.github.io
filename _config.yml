@@ -1,5 +1,6 @@
 # Site settings
 title: "Utkarsh Gupta"
+title-description: " &#8226; Self-Motivated.Simple.Real"
 email: utkarshg1408@gmail.com
 description: "Self learned developer and a student of Electrical Enginerring at IIT Roorkee."
 keywords: "utkarshgpta, utkarsh gupta, developer, web, iit roorkee, jekyll, blog, personal, about me"
@@ -10,8 +11,15 @@ author:
 baseurl: ""
 url: "http://utkarshgpta.com"
 
-title_description: ""
-title_image: "https://robohash.org/Utkarsh Gupta"
+title_description: "As of now, I am a student at IIT Roorkee pursuing Bachelors in Electrical Engineering.
+I am a self-learned developer who first googled - <i>\"how to make a website\"</i> and was struck with 
+awe as the color of text on the screen changed as I did what was instructed. I am interested in open-source
+software and Big Data Analysis. I am an avid learner - exploring fields which interests me and always learning.
+I just love making stuff due to which sometimes people around me find me developing a website, sometimes writing
+a script and maybe sometime scratching my head over some competitive programming problem.
+I love to travel, listen to pop rock and progressive rock music and have been took up by reading in the recent
+time."
+title_image: "//s.gravatar.com/avatar/78156753f9d8feaebe2418780bdc262b?s=250"
 google_analytics: "UA-81663529-1"
 disqus_account: utkarshgpta
 github_repository: https://github.com/utkarshgpta
