@@ -49,4 +49,5 @@ exclude: ["LICENSE", "README.md", "CONTRIBUTING", "CONTRIBUTORS", "scripts"]
 
 gems:
   - jekyll-sitemap
+  - jemoji
   
