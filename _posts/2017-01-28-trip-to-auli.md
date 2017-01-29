@@ -44,7 +44,7 @@ We reached Joshimath by around 7 p.m. It was dark already but we could see the w
 ### Where to stay? 
 Hotels in Auli are kind of expensive, and we being a bunch of jobless folks(except one :P) had to minimize the trip cost. I looked through the hotels online but couldn't find a good deal, which made me think of even think of Manali over Auli and almost getting myself kicked out :D We decided to reach Joshimath first and find hotels there itself! And we did find one, equipped with heaters and water geyser! We stayed in Hotel Snow Crest for our entire trip, it was a dorm room and we stayed up until late night that made the trip more memorable!
 
-> **Advice:** *If you want to stay in Auli itself, go for GMVN Auli Tourist Bungalow. It's a good place to stay at an economical price, but the only thing is that you need to book it 3 days prior to your stay, at their [website](www.gmvnl.in). If you're planning a long trip, you can also check The Birdsong Cottage on [Airbnb](https://www.airbnb.co.in/rooms/854909?s=2oG4doiO) for a better experience with friends. I came across this while I was searching for hotels, would stay here next time for sure!*
+> **Advice:** *If you want to stay in Auli itself, go for GMVN Auli Tourist Bungalow. It's a good place to stay at an economical price, but the only thing is that you need to book it 3 days prior to your stay, at their [website](http://www.gmvnl.in). If you're planning a long trip, you can also check The Birdsong Cottage on [Airbnb](https://www.airbnb.co.in/rooms/854909?s=2oG4doiO) for a better experience with friends. I came across this while I was searching for hotels, would stay here next time for sure!*
 
 ![Ski](http://i.imgur.com/0hEKX4a.jpg "Ski")
 
