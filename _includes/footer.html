@@ -7,10 +7,10 @@
   </div>
 </div>
 
-<script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
-<script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
-<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/typed.js/1.1.4/typed.min.js"></script>
-<script src="{{ site.baseurl }}/js/jquery.mmenu.min.all.js"></script>
+<script aysnc src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+<script async src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+<script async type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/typed.js/1.1.4/typed.min.js"></script>
+<script async src="{{ site.baseurl }}/js/jquery.mmenu.min.all.js"></script>
 
 {% if page.content contains '<script type="math/tex' %}
   <!-- MathJax for LaTeX -->
@@ -18,7 +18,7 @@
 {% endif %}
 {% if site.addthis_id %}
   <!-- Go to www.addthis.com/dashboard to customize your tools -->
-  <script type="text/javascript" async src="//s7.addthis.com/js/300/addthis_widget.js#pubid={{ site.addthis_id }}"></script>
+  <script async type="text/javascript" async src="//s7.addthis.com/js/300/addthis_widget.js#pubid={{ site.addthis_id }}"></script>
 {% endif %}
 
 <script type="text/javascript">
