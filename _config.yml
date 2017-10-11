@@ -2,7 +2,7 @@
 title: "Utkarsh Gupta"
 title-description: " &#8226; Self-Motivated.Simple.Real"
 email: utkarshg1408@gmail.com
-description: "Self learned developer and a student of Electrical Enginerring at IIT Roorkee."
+description: "Self learned developer and a final year student of Electrical Enginerring at IIT Roorkee."
 keywords: "utkarshgpta, utkarsh gupta, developer, web, iit roorkee, jekyll, blog, personal, about me"
 lang: "en"
 author:
@@ -11,11 +11,11 @@ author:
 baseurl: ""
 url: "http://utkarshgpta.com"
 
-title_description: "I am a 3rd-year undergraduate student pursuing Electrical Engineering at IIT Roorkee.
-I am a self-learned developer who first googled - <i>\"how to make a website\"</i> and was struck with 
-awe as the color of text on the screen changed as I did what was instructed. I am interested in open-source
-software development, Big Data Analysis and the web.
-I love to travel, listen to pop and progressive rock music, and surf the waves of the internet when I am free."
+title_description: "I'm a final-year undergraduate student pursuing Electrical Engineering at IIT Roorkee.
+A self-learned developer who first googled - <i>\"how to make a website\"</i> and was struck with 
+awe as the color of text on the screen changed as I did what was instructed. I'm interested in open-source
+software development, Machine Learning and the Web.
+I love to binge-watch, travel, listen to pop and progressive rock music, and surf the waves of the internet when I am free."
 
 title_image: "//s.gravatar.com/avatar/78156753f9d8feaebe2418780bdc262b?s=250"
 google_analytics: "UA-81663529-1"
