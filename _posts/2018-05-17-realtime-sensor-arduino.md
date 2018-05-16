@@ -34,3 +34,6 @@ A NodeJS server was deployed on Heroku which accpets GET requests made from the 
 
 ## Arduino Code
 Head over to the following [Gist](https://gist.github.com/UtkarshGpta/cbc7a899d3c6e1072db4b5f55e87b5a6) for Arduino Code.
+
+### Source
+[Github](https://github.com/UtkarshGpta/realtime-arduino-sensor-data)
