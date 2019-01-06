@@ -9,7 +9,7 @@ author:
   first_name: "Utkarsh"
   last_name: "Gupta"
 baseurl: ""
-url: "http://utkarshgpta.com"
+url: "http://utkarshgpta.github.io/"
 
 title_description: "I'm a final-year undergraduate student pursuing Electrical Engineering at IIT Roorkee.
 A self-learned developer who first googled - <i>\"how to make a website\"</i> and was struck with 
@@ -31,7 +31,6 @@ instagram_username: utkarshgpta
 facebook_username: UtkarshGpta
 github_username:  utkarshgpta
 linkedin_link: https://in.linkedin.com/in/utkarsh-gupta-33418b100
-google_plus_link: https://plus.google.com/u/0/+UtkarshGupta404
 
 # Footer
 footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/UtkarshGpta\">Utkarsh Gupta</a>"
