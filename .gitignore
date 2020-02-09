@@ -4,3 +4,4 @@ _site/
 _config.yml~
 atom.xml~
 index.html~
+.jekyll-cache
