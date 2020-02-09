@@ -1,9 +1,9 @@
 # Site settings
 title: "Utkarsh Gupta"
-title-description: " &#8226; Self-Motivated.Simple.Real"
+title-description: " &#8226; Senior Software Engineer"
 email: utkarshg1408@gmail.com
-description: "Self learned developer and a final year student of Electrical Enginerring at IIT Roorkee."
-keywords: "utkarshgpta, utkarsh gupta, developer, web, iit roorkee, jekyll, blog, personal, about me"
+description: "About Me. Senior Software Engineer Innovation at Societe Generale Bengaluru. IIT Roorkee Alumni"
+keywords: "utkarsh gupta, senior software engineer, full stack, blockchain, bangalore, iit roorkee, blog, personal, about me, societe generale"
 lang: "en"
 author:
   first_name: "Utkarsh"
@@ -11,12 +11,13 @@ author:
 baseurl: ""
 url: "http://utkarshgpta.github.io/"
 
-title_description: "I'm a final-year undergraduate student pursuing Electrical Engineering at IIT Roorkee.
-A self-learned developer who first googled - <i>\"how to make a website\"</i> and was struck with 
-awe as the color of text on the screen changed as I did what was instructed. I'm interested in open-source
-software development, Machine Learning and the Web.
-
-I love to binge-watch, travel, listen to pop and progressive rock music, and surf the waves of the internet when I am free."
+title_description: "I'm currently working as a Senior Software Engineer (Full-Stack) in Innovation Team at Societe Generale Bengaluru in the domain of Blockchain development, Full-Stack Web development, and Augmented Reality/Virtual Reality.
+<br/><br/>
+Before joining SocGen, I completed my undergraduate studies (B.Tech in Electrical Engineering) from the Indian Institute of Technology Roorkee.
+I'm a self-learned developer who started off by googling - <i>\"how to make a website\"</i> and was awestruck as the color of the text on the screen changed as I did what was instructed.
+<br/><br/>
+I'm an open-source enthusiast who've tasted different waters of software engineering - Web development to Machine Learning to Blockchain, all in chronological order.
+You can find me either binge-watching shows, listening to pop and progressive rock music, or surfing the tidal waves of the internet - primarily Reddit or HackerNews."
 
 title_image: "//s.gravatar.com/avatar/78156753f9d8feaebe2418780bdc262b?s=250"
 google_analytics: "UA-81663529-1"
@@ -30,7 +31,7 @@ twitter_username: utkarshgpta
 instagram_username: utkarshgpta
 facebook_username: UtkarshGpta
 github_username:  utkarshgpta
-linkedin_link: https://in.linkedin.com/in/utkarsh-gupta-33418b100
+linkedin_link: www.linkedin.com/in/utkarshgpta
 google_plus_link: 
 
 # Footer
