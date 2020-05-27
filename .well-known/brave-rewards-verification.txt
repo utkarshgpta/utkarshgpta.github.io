@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: utkarsh.xyz
+Token: 2b6e0f9b4acb977d233506182ca2166a01f40aaf0d50bfeffd94bff2db4ee9f3
