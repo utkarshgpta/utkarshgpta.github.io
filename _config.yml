@@ -2,8 +2,8 @@
 title: "Utkarsh Gupta"
 # title-description: " &#8226; "
 email: utkarshg1408@gmail.com
-description: "Senior Software Engineer - Innovation at Societe Generale Bengaluru. IIT Roorkee Alumni"
-keywords: "utkarsh gupta, senior software engineer, full stack, blockchain, bangalore, iit roorkee, blog, personal, about me, societe generale"
+description: "Engineer at MindTickle. IIT Roorkee Alumni"
+keywords: "utkarsh gupta, iit roorkee, software engineer, landing page, blog, personal, mindtickle"
 lang: "en"
 author:
   first_name: "Utkarsh"
@@ -11,12 +11,11 @@ author:
 baseurl: ""
 url: "http://utkarshgpta.github.io/"
 
-title_description: "I'm currently working as a Senior Software Engineer (Full-Stack) in Innovation Team at Societe Generale Bengaluru in the domain of Blockchain, AR/VR, and Full-Stack Web development.
+title_description: "I'm currently working as Software Development Engineer - II (Backend) in one of the product offering teams at MindTickle. Before that, I worked as a full-stack engineer at Societe Generale, Bengaluru (SocGen) primarily in the domain of Blockchain and AR/VR for internally incubated startups and different business lines within the group.
 <br/><br/>
-Before joining SocGen, I completed my undergraduate studies (B.Tech in Electrical Engineering) from the Indian Institute of Technology Roorkee.
-I'm a self-learned developer who started off by googling - <i>\"how to make a website\"</i> and was awestruck as the color of the text on the screen changed as I did what was instructed.
+As far as my educational qualification is concerned, I've completed my undergraduate degree in Electrical Engineering from the Indian Institute of Technology, Roorkee.
+I'm a self-taught software engineer who just started by googling - <i>\"how to make a website\"</i>, and got esctatic as the color of the text on the screen changed on doing what was instructed. After that I explored and undertook projects in Web Development, Machine Learning and Blockchain - all in chronological order.
 <br/><br/>
-I'm an open-source enthusiast who've tasted different waters of software engineering - Web development to Machine Learning to Blockchain, all in chronological order.
 You can find me either binge-watching shows, listening to pop and progressive rock music, or surfing the tidal waves of the internet - primarily Reddit or HackerNews."
 
 title_image: "//s.gravatar.com/avatar/78156753f9d8feaebe2418780bdc262b?s=250"
